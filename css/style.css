@@ -32,7 +32,6 @@ p {
 .card{
   border-radius: 0;
 }
-
 @media screen and (min-width:576px) {
   .row {
     margin-bottom: 30px;
